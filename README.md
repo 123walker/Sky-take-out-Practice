@@ -1,4 +1,6 @@
 本项目参考了 黑马程序员的苍穹外卖项目，原视频地址：https://www.bilibili.com/video/BV1TP411v7v6/?spm_id_from=333.337.search-card.all.click&vd_source=b66c6626370485f18c67c541e65ad162
+
+使用时，记得启动nginx服务（在front文件夹中，默认端口为80，注意修改端口），redis服务，修改微信小程序的appid和appsecret，mysql密码
 # 💎Sky-take-out-Practice使用的技术栈
 SpringBoot，Mybatis,Redis
 
