@@ -25,3 +25,5 @@ Vue，nginx，
 ## 🎈使用@Transactional注解
 方便回滚事务
 
+# 报错分析
+Redis报错可以参考这篇文章https://blog.csdn.net/qq_37928228/article/details/110630920?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-1-110630920-blog-105767907.235%5Ev40%5Epc_relevant_3m_sort_dl_base1&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-1-110630920-blog-105767907.235%5Ev40%5Epc_relevant_3m_sort_dl_base1&utm_relevant_index=1
